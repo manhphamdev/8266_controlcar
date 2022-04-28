@@ -21,6 +21,7 @@ div {text-align: center;}
 <h2> Danh sách nhóm sinh viên thực hiện: </h2>
 <h3> 1. Nguyễn Sơn Hoàng </h3>
 <h3> 2. Nguyễn Chiến Thắng</h3>
+<h3> 3. Phạm Hồng Mạnh </h3>
 
 <h2> <u>PHẦN II</u>: Thông Số Nhiệt Độ, Độ ẩm và Nồng độ chất trong không khí tại nơi đo </h2>
 
